@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\bin\Debug\netcoreapp2.0\GitIntegrationTesting.deps.json
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\bin\Debug\netcoreapp2.0\GitIntegrationTesting.runtimeconfig.json
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\bin\Debug\netcoreapp2.0\GitIntegrationTesting.runtimeconfig.dev.json
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\bin\Debug\netcoreapp2.0\GitIntegrationTesting.dll
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\bin\Debug\netcoreapp2.0\GitIntegrationTesting.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\obj\Debug\netcoreapp2.0\GitIntegrationTesting.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\obj\Debug\netcoreapp2.0\GitIntegrationTesting.csproj.CoreCompileInputs.cache
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\obj\Debug\netcoreapp2.0\GitIntegrationTesting.AssemblyInfoInputs.cache
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\obj\Debug\netcoreapp2.0\GitIntegrationTesting.AssemblyInfo.cs
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\obj\Debug\netcoreapp2.0\GitIntegrationTesting.dll
+c:\users\administrator\documents\visual studio 2017\Projects\GitIntegrationTesting\GitIntegrationTesting\obj\Debug\netcoreapp2.0\GitIntegrationTesting.pdb
